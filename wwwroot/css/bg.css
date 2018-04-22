@@ -1,0 +1,19 @@
+﻿body {
+    background-image: url('../images/3.jpg');
+    background-size:cover;
+}
+
+#loginForm {
+    color: darkblue;
+    padding: 10% 20% 2% 30%;
+}
+
+#headText{
+    
+    padding:20px;
+    font-family:'Century Gothic';
+    font:200;
+    font-size:large;
+    color:deepskyblue;
+    
+}
