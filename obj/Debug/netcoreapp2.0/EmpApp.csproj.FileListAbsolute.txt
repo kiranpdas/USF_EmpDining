@@ -1,0 +1,44 @@
+C:\dev\dotnetT\bin\Debug\netcoreapp2.0\EmpApp.deps.json
+C:\dev\dotnetT\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.json
+C:\dev\dotnetT\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.dev.json
+C:\dev\dotnetT\bin\Debug\netcoreapp2.0\EmpApp.dll
+C:\dev\dotnetT\bin\Debug\netcoreapp2.0\EmpApp.pdb
+C:\dev\dotnetT\obj\Debug\netcoreapp2.0\EmpApp.csprojResolveAssemblyReference.cache
+C:\dev\dotnetT\obj\Debug\netcoreapp2.0\EmpApp.csproj.CoreCompileInputs.cache
+C:\dev\dotnetT\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfoInputs.cache
+C:\dev\dotnetT\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfo.cs
+C:\dev\dotnetT\obj\Debug\netcoreapp2.0\EmpApp.dll
+C:\dev\dotnetT\obj\Debug\netcoreapp2.0\EmpApp.pdb
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.deps.json
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.json
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.dev.json
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.dll
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.pdb
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.csprojResolveAssemblyReference.cache
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.csproj.CoreCompileInputs.cache
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfoInputs.cache
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfo.cs
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.dll
+C:\usf\DIS\Final Project\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.pdb
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.deps.json
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.json
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.dev.json
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.dll
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\bin\Debug\netcoreapp2.0\EmpApp.pdb
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.csprojResolveAssemblyReference.cache
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.csproj.CoreCompileInputs.cache
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfoInputs.cache
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfo.cs
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.dll
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\AspNetCoreMVC-EmpAppCRUD-master\obj\Debug\netcoreapp2.0\EmpApp.pdb
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\bin\Debug\netcoreapp2.0\EmpApp.deps.json
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.json
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\bin\Debug\netcoreapp2.0\EmpApp.runtimeconfig.dev.json
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\bin\Debug\netcoreapp2.0\EmpApp.dll
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\bin\Debug\netcoreapp2.0\EmpApp.pdb
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\obj\Debug\netcoreapp2.0\EmpApp.csprojResolveAssemblyReference.cache
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\obj\Debug\netcoreapp2.0\EmpApp.csproj.CoreCompileInputs.cache
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfoInputs.cache
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\obj\Debug\netcoreapp2.0\EmpApp.AssemblyInfo.cs
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\obj\Debug\netcoreapp2.0\EmpApp.dll
+E:\usf\dis\projects\AspNetCoreMVC-EmpAppCRUD\USF_EmpDining\obj\Debug\netcoreapp2.0\EmpApp.pdb
