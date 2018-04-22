@@ -1,19 +1,31 @@
 ﻿body {
-    background-image: url('../images/3.jpg');
-    background-size:cover;
+    /*background-image: url('../images/blur-close-up-cutlery-370984.jpg');*/
+    /*background-image: url('../images/pizza.jpg');*/
+    background-size: cover;
+    /*background-image: url('../images/bowl-farming-food-775207.jpg');*/
+    /*background-image: url('../images/2000.jpg');*/
+    /*background-image: url('../images/buffet-chicken-cooking-5938.jpg');*/
+    /*background-image: url('../images/download.jpg');*/
+    /*background-image: url('../images/cooking-dinner-food-76093.jpg');*/
+    /*background-image: url('../images/crust-delicious-dinner-568370.jpg');*/
+    background-image: url('../images/pizza.jpg');
 }
 
 #loginForm {
-    color: darkblue;
+   
+    color: ghostwhite;
     padding: 10% 20% 2% 30%;
+    font-family:Calibri;
 }
 
-#headText{
-    
-    padding:20px;
-    font-family:'Century Gothic';
-    font:200;
-    font-size:large;
-    color:deepskyblue;
-    
+#headText {
+    background-color: rgba(71, 73, 76, 0.4);
+    text-align:center;
+    font-family: 'Century Gothic';
+    font: 200;
+    font-size: large;
+    color: deepskyblue;
+}
+.form-group {
+    background-color: rgba(71, 73, 76, 0.4);
 }

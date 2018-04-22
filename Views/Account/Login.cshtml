@@ -5,6 +5,7 @@
 }
 
 <link href="~/css/bg.css" rel="stylesheet" />
+<link rel="icon" href="~/images/Icons8-Windows-8-Food-Restaurant-2.ico"/>
 <environment>
     <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
           asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
@@ -19,12 +20,14 @@
     <form asp-action="Login" asp-controller="Account" method="post">
         <input type="hidden" asp-for="ReturnUrl" />
         <div class="form-group">
-            <label asp-for="UserName"></label>
+            <label  asp-for="UserName"></label>
+            <span class="input-lg"><i class="glyphicon glyphicon-user"></i></span>
             <div><span asp-validation-for="UserName" class="text-danger"></span></div>
             <input asp-for="UserName" class="form-control" />
         </div>
         <div class="form-group">
             <label asp-for="Password"></label>
+            <span class="input-lg"><i class="glyphicon glyphicon-lock"></i></span>
             <div><span asp-validation-for="Password" class="text-danger"></span></div>
             <input asp-for="Password" class="form-control" />
         </div>
